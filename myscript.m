@@ -1,3 +1,3 @@
 
-% Test line 
+% Test assertion 
 assert( true )
