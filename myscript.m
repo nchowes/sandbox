@@ -1,0 +1,3 @@
+
+% Test line 
+assert( true )
